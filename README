@@ -1,0 +1,12 @@
+/* * * * * * * * * * * * * * * * * * * * * * * *
+/*
+/*		BASIC iOS USAGE
+/*
+/* * * * * * * * * * * * * * * * * * * * * * * *
+
+
+// set up our singleton for use
+APIHandler *mAPIHandler = [APIHandler sharedHandler];
+
+// utilize our sendRequest method and talk to our server	
+[mAPIHandler sendRequest:@"POST" toURL:@"http://bonfire.weareoverture.com/api/" email:@"b@a.com" password:[NSString returnMD5:@"testing"] action:@"groupStatusRequest"];
