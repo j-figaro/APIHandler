@@ -1,14 +1,4 @@
 //
-//	        							  mm                                
-//									      MM                                
-//    ,pW"Wq.`7M'   `MF'.gP"Ya `7Mb,od8 mmMMmm `7MM  `7MM  `7Mb,od8 .gP"Ya  
-//   6W'   `Wb VA   ,V ,M'   Yb  MM' "'   MM     MM    MM    MM' "',M'   Yb 
-//   8M     M8  VA ,V  8M""""""  MM       MM     MM    MM    MM    8M"""""" 
-//   YA.   ,A9   VVV   YM.    ,  MM       MM     MM    MM    MM    YM.    , 
-//    `Ybmd9'     W     `Mbmmd'.JMML.     `Mbmo  `Mbod"YML..JMML.   `Mbmmd' 
-//
-//
-//
 //
 //	APIHandler.h
 //
