@@ -8,5 +8,5 @@
 // set up our singleton for use
 APIHandler *mAPIHandler = [APIHandler sharedHandler];
 
-// utilize our sendRequest method and talk to our server	
+// utilize our sendRequest method and talk to our API	
 [mAPIHandler sendRequest:@"POST" toURL:@"http://xxx.xxx.com/api/" email:@"b@a.com" password:[NSString returnMD5:@"testing"] action:@"groupStatusRequest"];
